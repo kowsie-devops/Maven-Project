@@ -1,3 +1,7 @@
 .m2/
 .m2/
 .m2/
+.bash_history
+.git-credentials
+.gitconfig
+.viminfo
